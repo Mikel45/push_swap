@@ -20,6 +20,6 @@ Run sort algorithm:
 ```bash
 cd push_swap
 make bonus
-./push_swap [number in unsorted order]
-```
+./checker [number in unsorted order]
 Type commands and press "ctrl + D" to check if it's sorted or not.
+```
